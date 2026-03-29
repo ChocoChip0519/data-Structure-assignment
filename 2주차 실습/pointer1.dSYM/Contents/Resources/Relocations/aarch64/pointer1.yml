@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/hataeuk/Documents/Data_Structure_Assignment/2주차 실습/pointer1"
+relocations:     []
+...
